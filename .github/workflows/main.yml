@@ -1,0 +1,2 @@
+- name: GCP Storage
+  uses: convictional/gcp-storage-action@v0.1.1
